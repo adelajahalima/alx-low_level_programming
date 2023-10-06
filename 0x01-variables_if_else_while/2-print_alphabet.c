@@ -5,7 +5,7 @@
 */
 int main(void)
 {
-	int c;
+	char c;
 
 	c = 'a';
 	while
@@ -13,6 +13,6 @@ int main(void)
 			putchar(c);
 			c++;
 		}
-	putchar("\n");
+	putchar('\n');
 	return (0);
 }
