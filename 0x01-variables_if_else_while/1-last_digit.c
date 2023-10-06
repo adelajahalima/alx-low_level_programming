@@ -3,9 +3,8 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Return: 
-
-/* betty style doc for function main goes there */
+ * Return: Always return 0 (Success)
+ */
 int main(void)
 {
 		int n;
