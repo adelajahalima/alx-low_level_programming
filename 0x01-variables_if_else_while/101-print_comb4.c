@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 /**
  * main - Prog entry point
  * Return: Always 0 (Success)
